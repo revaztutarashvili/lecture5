@@ -1,0 +1,21 @@
+nav  {/*display: flex;*/ background-color: aqua; margin-bottom: 65px; height: 50px;}
+li {display: inline-block; margin-left: 50; vertical-align: middle; font-size: 11px;}
+a {margin-left: 50px; vertical-align: middle;}
+footer { background-color: #707070; }
+.footerclass { padding: 50px; color: aliceblue; font-size: 20px; display: inline-block;}
+.section-container-1 { position: relative; display: inline-block; margin-bottom: 200px;  margin-left: 50px;} 
+.section1-title {font-size: 24px; margin-bottom: 20px; font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+.blocks-header { font-size: 20px; margin-bottom: 5px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.blocks-images { margin-bottom: 20px;}
+.blocks-text {  width: 300px; height: auto; padding: 10px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+.blocks-time-icons {padding: 10px; }
+.block1 {display:inline-block; margin-right: 20px;}
+.block2 {display:inline-block; margin-right: 20px;}
+.block3 {display:inline-block; margin-right: 20px;}
+.logo {margin: 0 50 0 200;}
+.section-container-2 { position: relative; }
+.section-container-2-rows1 {display: inline-block;  margin-left: 50px; margin-right: 20px; vertical-align: middle;}
+.section-container-2-rows2 {display: inline-block;  vertical-align: middle;}
+.block-row-1 {margin-bottom: 30px; position: relative;}
+.block-row-3 { margin-bottom: 30px;}
+.text-inside { position: absolute; left: 50%; top: 50%; font-size: 40px; color: rgb(255, 255, 255);  transform: translate(-50%, -50%);}
